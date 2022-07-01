@@ -152,6 +152,7 @@ ul {
                     color: white;
                     text-decoration: none;
                     padding: 0 10px;
+                    font-weight: 800;
 
                     &.active {
                         color: $yellow_clr;
