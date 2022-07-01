@@ -21,7 +21,7 @@
                     </nav>
                 </div>
 
-                <!-- Jumbotron -->
+<!-------   JUMBOTRON   ------->
                 <div class="container_jumbo">
                     <h2 class="title_jumbo">
                         Key to your success
@@ -184,6 +184,7 @@ ul {
 
     p {
         margin: 20px;
+        font-weight: 400;
     }
 }
 
