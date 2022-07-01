@@ -132,7 +132,9 @@ ul {
         display: flex;
         justify-content: space-between;
         align-items: center;
-        padding-top: 20px;
+        padding-top: 2rem;
+        padding-left: 1.3rem;
+        padding-right: 1.7rem;
 
         img {
             width: 200px;
