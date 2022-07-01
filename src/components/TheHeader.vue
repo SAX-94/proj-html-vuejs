@@ -24,7 +24,7 @@
                 <!-- Jumbotron -->
                 <div class="container_jumbo">
                     <h2 class="title_jumbo">
-                        Key to your succes
+                        Key to your success
                     </h2>
 
                     <p>EduPrime is the most versatile WordPress theme for educational purposes, showcasting
@@ -179,6 +179,7 @@ ul {
     .title_jumbo {
         font-size: 50px;
         margin-top: 30px;
+        font-weight: 900;
     }
 
     p {
