@@ -106,11 +106,11 @@ export default {
 
 <style scoped lang="scss">
 @import '../assets/button.scss';
-// My color
+
+/* -- CUSTOMIZED YELLOW -- */
 $yellow_clr: #E9D758;
 
-
-// general
+/* -- GENERAL -- */
 ul {
     display: inline-block;
 }
