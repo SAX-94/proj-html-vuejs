@@ -271,7 +271,7 @@
                 <div class="search_sub">
                     <div class="search_bar">
                         <input type="text" placeholder="Email address...">
-                        <font-awesome-icon class="icon_search" icon="fa-solid fa-magnifying-glass" />
+                        <font-awesome-icon class="icon_search" icon="fa-solid fa-paper-plane" />
                     </div>
                 </div>
             </div>
