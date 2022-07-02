@@ -235,7 +235,7 @@
                 <h2>The most efficient examination method</h2>
                 <p>EduPrime has gathered teachers from around the globe to brainstorm in order to facilitate the
                     evaluation of
-                    our students. Every teacher from our university has an influence on how students are evalutaded at
+                    our students. Every teacher from our university has an influence on how students are evaluated at
                     his/her
                     subject.</p>
                 <button class="btn_pink">Discover the Method</button>
@@ -254,7 +254,7 @@
                 <h2>Variable fees for international students</h2>
                 <p>EduPrime has gathered teachers from around the globe to brainstorm in order to facilitate the
                     evaluation of
-                    our students. Every teacher from our university has an influence on how students are evalutaded at
+                    our students. Every teacher from our university has an influence on how students are evaluated at
                     his/her
                     subject.</p>
                 <button class="btn_pink">List of Fees</button>
