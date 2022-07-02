@@ -742,6 +742,7 @@ $primary_text: #3D404F;
         width: 30%;
         margin: 20px auto;
         text-align: center;
+        padding-top: 1rem;
 
         h2 {
             color: #3D404F;
