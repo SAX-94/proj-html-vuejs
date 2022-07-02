@@ -17,8 +17,9 @@ import { faMoneyBill1 } from '@fortawesome/free-solid-svg-icons'
 import { faUser } from '@fortawesome/free-regular-svg-icons'
 import { faEye } from '@fortawesome/free-regular-svg-icons'
 import { faCaretDown } from '@fortawesome/free-solid-svg-icons'
+import { faPaperPlane } from '@fortawesome/free-solid-svg-icons'
 
-library.add(faFacebookF, faTwitter, faInstagram, faMagnifyingGlass, faUserPlus, faCalendarDays, faPlus, faMoneyBill1, faUser, faEye, faCaretDown)
+library.add(faFacebookF, faTwitter, faInstagram, faMagnifyingGlass, faUserPlus, faCalendarDays, faPlus, faMoneyBill1, faUser, faEye, faCaretDown, faPaperPlane)
 
 
 
