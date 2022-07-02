@@ -24,7 +24,7 @@
         </section>
 
         <section class="carousel_container">
-            <h2>Faculties avaible at EduPrime</h2>
+            <h2>Faculties available at EduPrime</h2>
             <div class="text_carousel">
                 <p>A single university with a load of courses, tailored to satisfy any student's needs.</p>
             </div>
@@ -311,7 +311,7 @@ export default {
                 {
                     text: "Law faculty",
                     urlImg: require("../assets/img/Gavel-v2.png"),
-                    current: true
+                    current: false
                 },
                 {
                     text: "Economy",
@@ -590,7 +590,7 @@ $primary_text: #3D404F;
 
         .btn_pink_little {
             box-shadow: 5px 10px 40px #000000CC;
-            margin-top: 20px;
+            margin-top: 2.5rem;
         }
     }
 
