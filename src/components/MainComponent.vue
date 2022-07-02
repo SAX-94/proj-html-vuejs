@@ -723,7 +723,7 @@ $primary_text: #3D404F;
             padding: 20px 10px;
             padding-right: 150px;
             border: none;
-            border-radius: 25px;
+            border-radius: 30px;
         }
 
         .icon_search {
@@ -746,7 +746,7 @@ $primary_text: #3D404F;
         h2 {
             color: #3D404F;
             font-weight: 900;
-            font-size: 30px;
+            font-size: 2.5rem;
         }
 
         p {
