@@ -1,5 +1,5 @@
-$yellow_clr: #E9D758;
-a{
+$yellow_clr: #e9d758;
+a {
     text-decoration: none;
     color: white;
 }
@@ -7,12 +7,12 @@ a{
 button {
     display: inline-block;
     cursor: pointer;
-    font-family: 'Nunito', sans-serif;
+    font-family: "Nunito", sans-serif;
 }
 
 .btn_yellow {
-    padding: 15px 25px;
-    border-radius: 25px;
+    padding: 1rem 2rem;
+    border-radius: 30px;
     color: white;
     background-color: $yellow_clr;
     border: none;
@@ -23,7 +23,7 @@ button {
 .btn_white {
     padding: 15px 25px;
     border-radius: 25px;
-    color: #E56768;
+    color: #e56768;
     background-color: white;
     border: none;
     margin: 0 20px;
@@ -34,20 +34,20 @@ button {
     padding: 15px 25px;
     border-radius: 25px;
     color: white;
-    background-color: #E56768;
+    background-color: #e56768;
     border: none;
     margin: 0 20px;
-    font-weight: 700;
+    font-weight: 800;
 }
 
-.btn_pink_little{
+.btn_pink_little {
     padding: 10px 20px;
     border-radius: 25px;
     color: white;
-    background-color: #E56768;
+    background-color: #e56768;
     border: none;
     margin: 0 20px;
-    font-weight: 700;
+    font-weight: 800;
 }
 
 .empty_button {
@@ -55,11 +55,11 @@ button {
     background-color: transparent;
     padding: 5px 10px;
     border-radius: 25px;
-    color: #ffffffCC;
+    color: #ffffffcc;
     font-size: 10px;
     margin: 5px 5px;
 
     a {
-      padding-top: 2px;
+        padding-top: 2px;
     }
-  }
+}
