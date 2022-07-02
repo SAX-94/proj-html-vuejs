@@ -589,8 +589,9 @@ $primary_text: #3D404F;
         }
 
         .btn_pink_little {
-            box-shadow: 5px 10px 40px #000000CC;
-            margin-top: 2.5rem;
+            box-shadow: 5px 10px 70px -10px #0000007e;
+            position: relative;
+            top: 30%;
         }
     }
 
