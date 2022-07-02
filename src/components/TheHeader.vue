@@ -98,6 +98,12 @@ export default {
 }
 </script>
 
+
+<!--******************************
+-------      STYLE      -------
+*******************************-->
+
+
 <style scoped lang="scss">
 @import '../assets/button.scss';
 // My color
