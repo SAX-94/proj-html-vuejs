@@ -704,13 +704,14 @@ $primary_text: #3D404F;
         display: flex;
         justify-content: space-evenly;
         align-items: center;
-        padding: 30px 0;
+        padding: 3rem;
 
         .title_sub {
             color: white;
 
             h2 {
                 font-weight: 900;
+                font-size: 2rem;
             }
         }
 
