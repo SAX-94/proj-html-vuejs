@@ -257,7 +257,7 @@
                     our students. Every teacher from our university has an influence on how students are evaluated at
                     his/her
                     subject.</p>
-                <button class="btn_pink">List of Fees</button>
+                <button class="btn_pink" id="fees">List of Fees</button>
             </div>
 
         </section>
@@ -384,6 +384,10 @@ $primary_text: #3D404F;
 
         button {
             margin-top: 20px;
+        }
+
+        .btn_yellow:hover {
+            background-color: #E56768;
         }
     }
 
@@ -562,6 +566,10 @@ $primary_text: #3D404F;
         font-size: 50px;
         font-weight: 900;
     }
+    
+    .btn_yellow:hover {
+        background-color: #E56768;
+    }
 }
 
 .card_container {
@@ -683,6 +691,10 @@ $primary_text: #3D404F;
         p {
             color: #3D404F;
             margin: 30px 0;
+        }
+
+        #fees:hover {
+            background-color: #E9D758;
         }
     }
 

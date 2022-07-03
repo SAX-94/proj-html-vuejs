@@ -146,6 +146,11 @@ ul {
             width: 200px;
             margin: 0 20px;
         }
+        
+        .btn_yellow:hover {
+            background-color: white;
+            color: #E56768;
+        }
 
         ul {
             list-style-type: none;
