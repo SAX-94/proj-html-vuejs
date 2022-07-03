@@ -53,7 +53,7 @@
 
 <script>
 export default {
-    name: 'EPHeader',
+    name: 'TheHeader',
     data() {
         return {
             links: [

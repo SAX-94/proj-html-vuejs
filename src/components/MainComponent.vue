@@ -304,7 +304,7 @@
 
 <script>
 export default {
-    name: 'EPMain',
+    name: 'MainComponent',
     data() {
         return {
             carousel: [
