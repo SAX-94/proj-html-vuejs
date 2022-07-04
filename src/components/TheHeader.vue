@@ -1,5 +1,5 @@
 <template>
-    <header>
+    <div class="container">
         <div class="header_jumbo_container">
             <div class="bg_color">
                 <!-- HEADER - NAVBAR -->
@@ -48,7 +48,7 @@
         <div class="wave_container">
             <img src="../assets/img/Wave-1.png" alt="">
         </div>
-    </header>
+    </div>
 </template>
 
 <script>

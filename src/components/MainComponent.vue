@@ -1,5 +1,5 @@
 <template>
-    <main>
+    <div class="container">
         <section class="first_section_bg">
             <div class="container_70">
                 <div class="col_left">
@@ -299,7 +299,7 @@
                 <img src="../assets/img/background-wave3.png" alt="">
             </div>
         </section>
-    </main>
+    </div>
 </template>
 
 <script>

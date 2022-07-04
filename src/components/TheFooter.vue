@@ -1,111 +1,113 @@
 <template>
-    <div class="bg_foot">
-        <div class="button_container">
+    <div class="container">
+        <div class="bg_foot">
+            <div class="button_container">
 
 
-            <button class="foot_button">
+                <button class="foot_button">
+                    <a href="#">
+                        <img src="../assets/svg/svg-3.svg" alt="">
+                        Purchase Theme
+                    </a>
+                </button>
+
+
+                <button class="foot_button">
+                    <a href="#">
+                        <img src="../assets/svg/svg-2.svg" alt="">
+                        Related Themes
+                    </a>
+                </button>
+
+            </div>
+
+            <div class="social_container">
+                <a href="#"><img src="../assets/img/theme_eduprime_logo.png" alt=""></a>
+                <p>EduPrime is the most versatile WordPress theme for educational purposes, showcasing universities,
+                    courses,
+                    secondary school etc.</p>
                 <a href="#">
-                    <img src="../assets/svg/svg-3.svg" alt="">
-                    Purchase Theme
+                    <font-awesome-icon class="brand_icon facebook_icon" icon="fa-brands fa-facebook-f" />
                 </a>
-            </button>
-
-
-            <button class="foot_button">
                 <a href="#">
-                    <img src="../assets/svg/svg-2.svg" alt="">
-                    Related Themes
+                    <font-awesome-icon class="brand_icon" icon="fa-brands fa-twitter" />
                 </a>
-            </button>
-
-        </div>
-
-        <div class="social_container">
-            <a href="#"><img src="../assets/img/theme_eduprime_logo.png" alt=""></a>
-            <p>EduPrime is the most versatile WordPress theme for educational purposes, showcasing universities,
-                courses,
-                secondary school etc.</p>
-            <a href="#">
-                <font-awesome-icon class="brand_icon facebook_icon" icon="fa-brands fa-facebook-f" />
-            </a>
-            <a href="#">
-                <font-awesome-icon class="brand_icon" icon="fa-brands fa-twitter" />
-            </a>
-            <a href="#">
-                <font-awesome-icon class="brand_icon" icon="fa-brands fa-instagram" />
-            </a>
-
-        </div>
-
-        <div class="links_container">
-            <div class="link_foot">
-                <h3>Get EduPrime</h3>
-                <ul>
-                    <li v-for="(item, i) in linksFoot" :key="i">
-                        <a :href="item.url">
-                            {{ item.text }}
-                        </a>
-                    </li>
-                </ul>
-            </div>
-
-            <div class="link_foot">
-                <h3>Networking</h3>
-                <ul>
-                    <li v-for="(itemLink, j) in linksFootNet" :key="j">
-                        <a :href="itemLink.url">
-                            {{ itemLink.text }}
-                        </a>
-                    </li>
-                </ul>
-            </div>
-        </div>
-
-        <div class="search_container">
-            <div class="search_bar">
-                <input type="text" placeholder="Search ...">
-                <font-awesome-icon class="icon_search" icon="fa-solid fa-magnifying-glass" />
-                <h4>Search categories</h4>
-            </div>
-            <div class="buttons_container">
-
-                <button class="empty_button">
-                    <a href="#">ECONOMY</a>
-                </button>
-
-                <button class="empty_button">
-                    <a href="#">DESIGN</a>
-                </button>
-
-                <button class="empty_button">
-                    <a href="#">COACHING</a>
-                </button>
-
-                <button class="empty_button">
-                    <a href="#">BUSINESS</a>
-                </button>
-
-                <button class="empty_button">
-                    <a href="#">MEDICINE</a>
-                </button>
-
-                <button class="empty_button">
-                    <a href="#">LAW</a>
-                </button>
-
-                <button class="empty_button">
-                    <a href="#">FITNESS</a>
-                </button>
+                <a href="#">
+                    <font-awesome-icon class="brand_icon" icon="fa-brands fa-instagram" />
+                </a>
 
             </div>
 
-            <p>ModelTheme.All rights reserved.</p>
-        </div>
+            <div class="links_container">
+                <div class="link_foot">
+                    <h3>Get EduPrime</h3>
+                    <ul>
+                        <li v-for="(item, i) in linksFoot" :key="i">
+                            <a :href="item.url">
+                                {{ item.text }}
+                            </a>
+                        </li>
+                    </ul>
+                </div>
 
-        <div class="bact_top">
-            <a href="#">
-                <img src="../assets/img/back-to-top-arrow.svg" alt="">
-            </a>
+                <div class="link_foot">
+                    <h3>Networking</h3>
+                    <ul>
+                        <li v-for="(itemLink, j) in linksFootNet" :key="j">
+                            <a :href="itemLink.url">
+                                {{ itemLink.text }}
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="search_container">
+                <div class="search_bar">
+                    <input type="text" placeholder="Search ...">
+                    <font-awesome-icon class="icon_search" icon="fa-solid fa-magnifying-glass" />
+                    <h4>Search categories</h4>
+                </div>
+                <div class="buttons_container">
+
+                    <button class="empty_button">
+                        <a href="#">ECONOMY</a>
+                    </button>
+
+                    <button class="empty_button">
+                        <a href="#">DESIGN</a>
+                    </button>
+
+                    <button class="empty_button">
+                        <a href="#">COACHING</a>
+                    </button>
+
+                    <button class="empty_button">
+                        <a href="#">BUSINESS</a>
+                    </button>
+
+                    <button class="empty_button">
+                        <a href="#">MEDICINE</a>
+                    </button>
+
+                    <button class="empty_button">
+                        <a href="#">LAW</a>
+                    </button>
+
+                    <button class="empty_button">
+                        <a href="#">FITNESS</a>
+                    </button>
+
+                </div>
+
+                <p>ModelTheme.All rights reserved.</p>
+            </div>
+
+            <div class="bact_top">
+                <a href="#">
+                    <img src="../assets/img/back-to-top-arrow.svg" alt="">
+                </a>
+            </div>
         </div>
     </div>
 </template>
