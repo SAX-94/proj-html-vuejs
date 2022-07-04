@@ -238,7 +238,7 @@ ul li {
     }
 
     .social_container {
-        width: 30%;
+        width: 28%;
         font-size: 15px;
 
         img {
@@ -282,6 +282,8 @@ ul li {
 
     .search_container {
         text-align: right;
+        width: 310px;
+        padding-right: 2.2rem;
 
         .search_bar {
             position: relative;
