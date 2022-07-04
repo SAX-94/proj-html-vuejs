@@ -58,7 +58,7 @@
                             through a range of student-led activities and competitions.
                         </p>
 
-                        <button class="btn_pink">
+                        <button class="btn_pink" id="read-more">
                             Read More
                         </button>
                     </div>
@@ -396,7 +396,7 @@ $primary_text: #3D404F;
         margin-left: 50px;
 
         img {
-            width: 600px;
+            width: 450px;
         }
     }
 }
@@ -463,12 +463,12 @@ $primary_text: #3D404F;
 
     .carousel_content {
         width: 70%;
-        margin: 30px auto;
+        margin: 50px auto;
         display: flex;
         text-align: left;
 
         .img_content {
-            width: 50%;
+            width: 450px;
         }
 
         .text_content {
@@ -476,6 +476,10 @@ $primary_text: #3D404F;
 
             p {
                 color: #8b8b8a;
+                margin: 20px 0;
+            }
+
+            #read-more {
                 margin: 20px 0;
             }
         }
@@ -691,6 +695,10 @@ $primary_text: #3D404F;
         p {
             color: #3D404F;
             margin: 30px 0;
+        }
+
+        #fees {
+            margin: 0;
         }
 
         #fees:hover {

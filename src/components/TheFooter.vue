@@ -208,7 +208,7 @@ ul li {
     color: #ffffffCC;
 
     .button_container {
-        padding-left: 30px;
+        padding-left: 55px;
         padding-top: 170px;
     }
 
@@ -238,11 +238,11 @@ ul li {
     }
 
     .social_container {
-        width: 40%;
+        width: 30%;
         font-size: 15px;
 
         img {
-            width: 250px;
+            width: 185px;
         }
 
         p {
@@ -265,12 +265,12 @@ ul li {
 
     .links_container {
         display: flex;
-        width: 50%;
+        width: 40%;
     }
 
     .link_foot {
         color: white;
-        padding-left: 30px;
+        padding-left: 20px;
         width: 50%;
 
         h3 {
@@ -281,7 +281,6 @@ ul li {
     }
 
     .search_container {
-        padding-right: 10px;
         text-align: right;
 
         .search_bar {
@@ -290,7 +289,7 @@ ul li {
 
         input {
             padding: 20px 10px;
-            padding-right: 150px;
+            padding-right: 100px;
             border: none;
             border-radius: 25px;
         }
