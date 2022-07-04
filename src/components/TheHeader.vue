@@ -2,7 +2,7 @@
     <header>
         <div class="header_jumbo_container">
             <div class="bg_color">
-                <!-- header e navbar -->
+                <!-- HEADER - NAVBAR -->
                 <div class="container_header">
                     <a href="#"><img src="../assets/img/theme_eduprime_logo.png" alt="logo"></a>
                     <nav>
