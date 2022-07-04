@@ -280,7 +280,7 @@
         <section class="partners_container">
             <div class="text">
                 <h2>Partners</h2>
-                <p>Leverage agile framework to provide a robust synopsis for high level overviews. Iterative approaches
+                <p>Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches
                     to
                     corporate strategy.</p>
             </div>
