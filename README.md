@@ -1,4 +1,6 @@
-# proj-html-vuejs
+# Front-end test project
+
+This project is intended to test our front-end skills.
 
 ## Project setup
 ```
